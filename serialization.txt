@@ -1,0 +1,8 @@
+serialization 
+complex data structures.
+ 
+data can be serialized to send it across a stream such as a network.
+
+on is serialized ,the object can be deserialized to make a clone of the original object.
+
+used to save game info, level data, options, key bindings, and running states...also save data.
